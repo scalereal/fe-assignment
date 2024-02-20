@@ -46,21 +46,21 @@ Create a web application that allows users to input a specific date and time, af
 - Frontend: HTML, CSS and Javascript. The implementations should be in react.
 - Optional: Use typescript, add unit tests and e2e tests.
 
-### 6. Mockups
+## 6. Mockups
 - Screen 1: Enter the date and time for the countdown times
 ![Screen 1](https://github.com/scalereal/fe-assignment/assets/85559412/a673b190-4e47-468c-a66f-a0df247da425)
 - Screen 2: Countdown Timer
 ![Screen 2](https://github.com/scalereal/fe-assignment/assets/85559412/a4d8a63f-1d1f-4e8a-81a8-1328a3152182)
 
-### 7. Additional Pointers:
+## 7. Additional Pointers:
 - The UI should include reusable components
 - Do not use any component library for building the date and time picker
 - The images above are just an example layout, but the final result should aim to have the same features and somewhat the same layout
 - Use linting tools, to ensure consistent formatting and code quality.
 
-### 8. Assets:
+## 8. Assets:
 - Fonts used: [Roboto](https://fonts.google.com/specimen/Roboto?query=robot), [Orbitron](https://fonts.google.com/specimen/Orbitron?query=orbitron)
 - Primary color: #387A77
 
-### 9. Handling the assignment:
+## 9. Handling the assignment:
 - You can hand in your assignment by creating a repository on GitHub and pushing it there.
